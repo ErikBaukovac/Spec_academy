@@ -1,0 +1,15 @@
+.flex {
+    display: flex;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#alati li:hover {
+    background: rgb(74, 66, 198);
+}
+
+#toolbox li:hover {
+    background: rgb(255, 102, 102);
+}
